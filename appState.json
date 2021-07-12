@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "48c40614-7605-4f04-a993-bf61d79a11b9": {
+        "id": "48c40614-7605-4f04-a993-bf61d79a11b9",
+        "parent": null,
+        "name": "asdfgh-indu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "asdfgh-indu.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 33
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "asdfghIndu"
+        },
+        "triggers": [],
+        "lastUpdated": 1626093117466
+      }
+    },
+    "openFiles": [
+      "48c40614-7605-4f04-a993-bf61d79a11b9"
+    ],
+    "currentFileId": "48c40614-7605-4f04-a993-bf61d79a11b9",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.0",
+    "projectName": "asdfgh-indu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1626093130155
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "asdfgh-indu",
+      "url": "https://github.com/Indunil1992/asdfgh-indu"
+    }
+  }
+}
